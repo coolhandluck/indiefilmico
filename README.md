@@ -20,3 +20,9 @@ If a filmmaker raises money through Kickstarter or IndieGoGo, they have to pay f
 (3) RAISING MONEY THROUGH AN ICO, CONSIDER IT A TOTAL LOSS, BUT MAYBE THERE'S AN UPSIDE POTENTIAL
 
 What if a filmmaker could raise money for a film through an Initial Coin Offering with the understading to investors that as an investment, this is highly risky and that any returns would be unlikely? But in case the filmmaker strikes gold, then those that took the leap would be rewarded? By implenting an ICO as an ERC20 token on Ethereum (with an eye on NEO when that becomes popular), then there are those that are out there that might be willing to invest in a film with the prospect of prestige and bragging rights for backing a young filmmaker who goes onto greater glory.
+
+(4) INDIE FILM ICO IS INTENDED FOR FIRST OR SECOND TIME FILMMAKERS UNDER THE LB, MLB, OR ULB SAG AFTRA CONTRACTS
+
+While this code will be open sourced, this project is intended for those looking to raise a small to modest amount of money for a first or second film. Should this model prove successful, then certainly can be scaled up but the goal is to open up and decentralize film financing in the independent film market. 
+
+The ICO market is very risky at its inception and indie film has always been risky. Those that have an interest in film and filmmakers may find this be an appropriate match.
