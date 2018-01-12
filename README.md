@@ -13,7 +13,7 @@ For example, Christopher Nolan's first narrative feature film was "Following" (1
 
 (2) FIRST FILMS ARE USUALLY SELF FINANCED, BOOTSTRAPPED, OR CROWDSOURCED
 
-It is a time honored tradition that a first time filmmaker will overturn every rock looking for money to make a film. Savings accounts are drained, second mortgages are taken out, friends and family are hit up, or a filmmaker will monetize social media and ask for money through sites like Kickstarter or IndieGoGo. Accounting is very loose and those that "invest" in a film are really at the mercy of the filmmaker if any equity and/or profits are not returned. Most people that give money to a film are doing so to help a friend or acquaintence or perhaps the message of the film is something they support.
+It is a time honored tradition that a first time filmmaker will overturn every rock looking for money to make a film. Savings accounts are drained, second mortgages are taken out, credit cards are maxxed out, friends and family are hit up, or a filmmaker will monetize social media and ask for money through sites like Kickstarter or IndieGoGo. Accounting is very loose and those that "invest" in a film are really at the mercy of the filmmaker if any equity and/or profits are not returned. Most people that give money to a film are doing so to help a friend or acquaintence or perhaps the message of the film is something they support.
 
 If a filmmaker raises money through Kickstarter or IndieGoGo, they have to pay fees, credit card processing charges and eventually fullfillment costs for donation incentives. A filmmaker will lose about 20% of the capital raised through these sources. It does help create interest and a community but often film projects stall or take so long to complete that people lose touch after making their contribution.
 
@@ -23,6 +23,8 @@ What if a filmmaker could raise money for a film through an Initial Coin Offerin
 
 (4) INDIE FILM ICO IS INTENDED FOR FIRST OR SECOND TIME FILMMAKERS UNDER THE LB, MLB, OR ULB SAG AFTRA CONTRACTS
 
-While this code will be open sourced, this project is intended for those looking to raise a small to modest amount of money for a first or second film. Should this model prove successful, then certainly can be scaled up but the goal is to open up and decentralize film financing in the independent film market. 
+While this code will be open sourced, this project is intended for those looking to raise a small to modest amount of money for a first or second film. Should this model prove successful, then certainly can be scaled up but the goal is to open up and decentralize film financing in the independent film market.
 
-The ICO market is very risky at its inception and indie film has always been risky. Those that have an interest in film and filmmakers may find this be an appropriate match.
+Because the film is monetized at the outset, there is exit and entry based upon the liquidity of the token. If a film or filmmaker becomes successful, then the demand for the token will be there. If the film ultimately fails, then it would be no different than a donation like Kickstarter or IndieGoGo. But the filmmaker would ultimately have more capital and more flexibility in which to make the film.
+
+The ICO market is very risky at its inception and indie film has always been risky. Those that have an interest in film and filmmakers and crypto may find this to be an appropriate match.
